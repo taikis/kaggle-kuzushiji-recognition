@@ -58,9 +58,9 @@ Ensembling HRNet_w32 and HRNet_w48 results -> 0.950.
 
 ## Run
 
-Install mmdetection following ./mmdetection/docs/INSTALL.md
+Install mmdetection following [./mmdetection/docs/INSTALL.md](./mmdetection/docs/INSTALL.md)
 
-Install packages following requirements.txt
+Install packages following [requirements.txt](./requirements.txt)
 
 ### Preprocess
 
